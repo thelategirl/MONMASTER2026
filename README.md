@@ -10,3 +10,11 @@ Pour plus de simplicité, chaque projet contient une démo vidéo et un fichier 
 ## SHADOW MAP OPENGL
 
 ![Shadow Map - Animated gif demo](assets/shadow_map.gif)
+
+## BLUEBEARD OPENGL
+
+![BlueBeard - Animated gif demo](assets/bluebeard.gif)
+
+## REGRESSION LINEAIRE IA
+
+![Regression linéaire - Image des résultats](assets/ResultatsRL.png)
