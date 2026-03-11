@@ -3,7 +3,9 @@
 ## Description
 
 J'ai profité de cette année pour prendre des leçons sur la vision ordinateur ou comment interpréter des images avec des programmes.
+
 Mes sources proviennent majoritairement de Youtube. Les projets sont centrés sur l'apprentissage des concepts de base donc n'ont pas réelement de résultats particuliers.
+
 Cependant, ce dossier comporte 2 exemples de ces projets pour donner un aperçu de ma méhode.
 
 ## REGRESSION LINEAIRE
@@ -20,6 +22,7 @@ Cependant, ce dossier comporte 2 exemples de ces projets pour donner un aperçu 
 
 **Pour le projet régression linéaire**
 source nom_de_votre_environement/bin/activate
+
 jupyter notebook
 
 
