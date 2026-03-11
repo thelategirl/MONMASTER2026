@@ -2,7 +2,7 @@
 
 ## Description
 
-Application d'un filtre "VHS" sur un torus tournant.
+Calcul de l'ombre projetée par une sphère sur un plan.
 
 ## Demo
 
